@@ -51,9 +51,12 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 
 <h2>Estadísticas de GitHub:</h2> 
 
-## 📊 Mis estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsukii5&show_icons=true&theme=tokyonight)  
+## 📊 Mis estadísticas
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tsukii5&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukii5&layout=compact&theme=tokyonight)  
 [![](https://github-readme-stats.vercel.app/api?username=Tsukii5&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Tsukii5)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Tsukii5&theme=material-palenight)](https://github.com/Tsukii5)
