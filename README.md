@@ -7,7 +7,7 @@
 Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de Sistemas**. Me especializo en desarrollo y diseño web, y me apasiona crear proyectos innovadores y productivos mientras sigo aprendiendo.
 
 - 🌱 Actualmente estoy aprendiendo:
-  - Django
+  - PHP
   - Python
 - ✔ Pregúntame sobre programación, análisis de sistemas o cualquier otra cosa.<br>
 - 📫 Contáctame en: <a href="mailto:catalinaluna004@gmail.com">catalinaluna004@gmail.com</a>
