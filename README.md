@@ -9,9 +9,7 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 - 🌱 Actualmente estoy aprendiendo:
   - Django
   - Python
-- 👯 Me interesa colaborar en proyectos de código abierto.
 - ✔ Pregúntame sobre programación, análisis de sistemas o cualquier otra cosa.<br>
-- Fuera del ámbito tecnológico: 💜 Me encanta 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer ciencia ficción.
 - 📫 Contáctame en: <a href="mailto:catalinaluna004@gmail.com">catalinaluna004@gmail.com</a>
 
 ## Mis habilidades incluyen
