@@ -1,21 +1,20 @@
-# 💻 Bienvenido a mi perfil de GitHub! 👋
+# 🪐 Bienvenido a mi perfil de GitHub!
 
 ## 🧑‍💻 Sobre mí
 
 ¡Hola! Soy un estudiante de **Técnico de Nivel Superior en Programación y Análisis de Sistemas** apasionado por el desarrollo de software, la programación y las tecnologías modernas. Me gusta aprender constantemente y colaborar en proyectos interesantes. 🚀
 
-- 🌱 Actualmente estoy aprendiendo: **Django**, **Python** y tecnologías web.
-- 🔭 Estoy trabajando en: Un proyecto basado en Django.
-- 📚 Intereses: Desarrollo web, análisis de sistemas y optimización de código.
-- 💬 Pregúntame sobre: Programación, análisis de sistemas y buenas prácticas en desarrollo.
+- 🌱 Actualmente estoy aprendiendo: **Django**, **Python**, **PHP** y tecnologías web.
+- 🔭 Estoy trabajando en: Un proyecto basado en Django y otro en PHP.
+- 📚 Intereses: Desarrollo y diseño web, análisis de sistemas y optimización de código.
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes de programación**: Python, JavaScript
-- **Frameworks**: Django, Flask
-- **Bases de datos**: PostgreSQL, MySQL
+- **Lenguajes de programación**: Python, PHP
+- **Frameworks**: Django
+- **Bases de datos**: MySQL
 - **Control de versiones**: Git y GitHub
-- **Otros**: HTML5, CSS3, Bootstrap
+- **Otros**: HTML, CSS, Bootstrap
 
 ## 📊 Estadísticas de GitHub
 
