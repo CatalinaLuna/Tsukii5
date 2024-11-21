@@ -2,7 +2,7 @@
 
 <img align="right" width=400px alt="Unicorn" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
+🌙***Sobre mí***
 
 Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de Sistemas**. Me especializo en desarrollo y diseño web, y me apasiona crear proyectos innovadores y productivos mientras sigo aprendiendo.
 
