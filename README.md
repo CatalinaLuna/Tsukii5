@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, soy Catalina Luna </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<img align="center" width=800px alt="Unicorn" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
+<img align="center" width=850px alt="Unicorn" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
 
 
 ## ***Sobre mí*** 
