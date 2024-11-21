@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
-Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de Sistemas**. Me especializo en desarrollo front-end y back-end, y me apasiona crear proyectos innovadores y productivos mientras sigo aprendiendo.
+Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de Sistemas**. Me especializo en desarrollo y diseño web, y me apasiona crear proyectos innovadores y productivos mientras sigo aprendiendo.
 
 - 🌱 Actualmente estoy aprendiendo:
   - Django
