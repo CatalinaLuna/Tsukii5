@@ -2,7 +2,9 @@
 
 
 <img align="center" width=800px alt="Unicorn" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
-🌕***Sobre mí***
+
+
+## ***Sobre mí*** 
 
 Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de Sistemas**. Me especializo en desarrollo y diseño web, y me apasiona crear proyectos innovadores y productivos mientras sigo aprendiendo.
 
@@ -11,8 +13,6 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 - Python
 - ✔ Pregúntame sobre programación, análisis de sistemas o cualquier otra cosa.<br>
 - 📫 Contáctame en: <a href="mailto:catalinaluna004@gmail.com">catalinaluna004@gmail.com</a>
-
-
 
 
 ## Mis habilidades incluyen
@@ -61,17 +61,13 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
     alt="Tsukii" 
     bg_color=#808080/></p>
 
-<br>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tsukii5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="Tsukii" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsukii5&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Tsukii" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tsukii5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Tsukii" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tsukii5&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Tsukii" /></p>
       
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 [Tsukii](https://github.com/Tsukii5)
 ---
