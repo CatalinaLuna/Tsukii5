@@ -45,7 +45,7 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 <h2>Estadísticas de GitHub:</h2> 
 
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Tsukii5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Tsukii" 
