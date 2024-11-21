@@ -1,16 +1,19 @@
 <h1 align="center"><b>Hola, soy Catalina Luna </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=400px alt="Unicorn" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
 
+<img align="center" width=700px alt="Unicorn" src="https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif"/>
 🌕***Sobre mí***
 
 Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de Sistemas**. Me especializo en desarrollo y diseño web, y me apasiona crear proyectos innovadores y productivos mientras sigo aprendiendo.
 
 - 🌱 Actualmente estoy aprendiendo:
-  - PHP
-  - Python
+- PHP
+- Python
 - ✔ Pregúntame sobre programación, análisis de sistemas o cualquier otra cosa.<br>
 - 📫 Contáctame en: <a href="mailto:catalinaluna004@gmail.com">catalinaluna004@gmail.com</a>
+
+
+
 
 ## Mis habilidades incluyen
 
@@ -52,20 +55,28 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 <h2>Estadísticas de GitHub:</h2> 
 
 
-## 📊 Mis estadísticas
-<div align="center">
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Tsukii5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Tsukii" 
+    bg_color=#808080/></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tsukii5&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukii5&layout=compact&theme=tokyonight)  
-[![](https://github-readme-stats.vercel.app/api?username=Tsukii5&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Tsukii5)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Tsukii5&theme=material-palenight)](https://github.com/Tsukii5)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tsukii5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="Tsukii" /></p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tsukii5&theme=react-dark)  
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tsukii5&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Tsukii" /></p>
+      
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+[Tsukii](https://github.com/Tsukii5)
 ---
 
 ✨ _¡Gracias por visitar mi perfil!._ ✨
-
 
 
 <!---
