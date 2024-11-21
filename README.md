@@ -51,9 +51,14 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 
 <h2>Estadísticas de GitHub:</h2> 
 
+## 📊 Mis estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tsukii5&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukii5&layout=compact&theme=tokyonight)  
 [![](https://github-readme-stats.vercel.app/api?username=Tsukii5&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Tsukii5)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Tsukii5&theme=material-palenight)](https://github.com/Tsukii5)
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tsukii5&theme=react-dark)  
 ---
 
 ✨ _¡Gracias por visitar mi perfil!._ ✨
