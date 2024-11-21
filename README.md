@@ -11,8 +11,7 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
   - Python
 - 👯 Me interesa colaborar en proyectos de código abierto.
 - ✔ Pregúntame sobre programación, análisis de sistemas o cualquier otra cosa.<br>
-- Fuera del ámbito tecnológico: 💜 Me encanta hacer streams en Twitch, 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer ciencia ficción.
-- 👾 Además, creo contenido sobre programación y tecnología en mis redes sociales. ¡Conéctate conmigo!
+- Fuera del ámbito tecnológico: 💜 Me encanta 🎮 jugar videojuegos, 🎵 escuchar música y 📖 leer ciencia ficción.
 - 📫 Contáctame en: <a href="mailto:catalinaluna004@gmail.com">catalinaluna004@gmail.com</a>
 
 ## Mis habilidades incluyen
@@ -42,11 +41,8 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 
 ## ¡Conéctate conmigo!
 
-<a href="https://www.instagram.com/tu_usuario">
+<a href="https://www.instagram.com/tsuki5.a">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.tiktok.com/@tu_usuario">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
 </a>
 <a href="https://www.twitch.tv/tu_usuario">
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
