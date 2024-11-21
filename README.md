@@ -24,7 +24,7 @@
 
 ## 🌐 Contacto
 
-- 📧 Correo: [tu_email@gmail.com](mailto:catalinaluna004@gmail.com)
+- 📧 Correo: [catalinaluna004@gmail.com](mailto:catalinaluna004@gmail.com)
 - 💼 LinkedIn: [TuNombre](https://www.linkedin.com/in/tu_nombre/)
 - 🌐 Portafolio: [MiPortafolio](https://miportafolio.com)
 
