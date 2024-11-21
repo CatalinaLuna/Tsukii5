@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/Tsukii5/">Tanya Gupta </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey there, I'm <a  href="https://github.com/Tsukii5/">Tsukii </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <!---
 # 🪐 Bienvenido a mi perfil de GitHub!
