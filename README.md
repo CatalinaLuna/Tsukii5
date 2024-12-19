@@ -10,8 +10,7 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 
 - 🌱 Actualmente estoy aprendiendo:
 - PHP
-- Python
-- ✔ Pregúntame sobre programación, análisis de sistemas o cualquier otra cosa.<br>
+- JS
 - 📫 Contáctame en: <a href="mailto:catalinaluna004@gmail.com">catalinaluna004@gmail.com</a>
 
 
