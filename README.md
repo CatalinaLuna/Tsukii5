@@ -27,7 +27,6 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
   <img src="https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white"> 
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Bitbucket-%230052CC?style=for-the-badge&logo=bitbucket&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E">
