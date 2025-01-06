@@ -8,9 +8,6 @@
 
 Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de Sistemas**. Me especializo en desarrollo y diseño web, y me apasiona crear proyectos innovadores y productivos mientras sigo aprendiendo.
 
-- 🌱 Actualmente estoy aprendiendo:
-  - PHP
-
 - 📫 Contáctame en: [catalinaluna004@gmail.com](mailto:catalinaluna004@gmail.com)
 
 ## Mis habilidades incluyen
