@@ -10,7 +10,7 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 
 - 🌱 Actualmente estoy aprendiendo:
   - PHP
-  <!– - JavaScript -->
+
 - 📫 Contáctame en: [catalinaluna004@gmail.com](mailto:catalinaluna004@gmail.com)
 
 ## Mis habilidades incluyen
