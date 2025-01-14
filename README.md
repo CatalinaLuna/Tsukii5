@@ -44,7 +44,7 @@ Soy estudiante de **Técnico de Nivel Superior en Programación y Análisis de S
 ### Mis estadísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tsukii5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsukii5&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Racha de GitHub" />
+  // <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsukii5&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Racha de GitHub" />
 </p>
 
 ---
